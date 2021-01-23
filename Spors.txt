@@ -5,7 +5,7 @@ Hockey
 BasketBall
 Table Tennis
 Chess
-Badminton
+
 
 
 
