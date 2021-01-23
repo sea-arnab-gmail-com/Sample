@@ -7,6 +7,9 @@ Table Tennis
 Chess
 Badminton
 
+Lawn Tennis
+VolleyBall
+
 
 
 Thanks & Regards
